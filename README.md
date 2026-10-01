@@ -35,4 +35,16 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
