@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,9 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
