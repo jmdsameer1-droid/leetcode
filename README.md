@@ -6,6 +6,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,8 +44,10 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
