@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
