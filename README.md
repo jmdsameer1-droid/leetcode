@@ -63,12 +63,19 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
