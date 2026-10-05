@@ -12,6 +12,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,4 +59,16 @@
 | ------- |
 | [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/jmdsameer1-droid/leetcode/tree/master/0093-restore-ip-addresses) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
