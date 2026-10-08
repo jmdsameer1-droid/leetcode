@@ -34,6 +34,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 | [0086-partition-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
