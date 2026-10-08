@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -25,11 +26,13 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0328-odd-even-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +103,8 @@
 | [0101-symmetric-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jmdsameer1-droid/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
