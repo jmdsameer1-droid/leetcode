@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0086-partition-list) |
+| [0328-odd-even-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
