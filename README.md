@@ -70,6 +70,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/jmdsameer1-droid/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0796-rotate-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
