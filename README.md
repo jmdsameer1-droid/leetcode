@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/jmdsameer1-droid/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 <!---LeetCode Topics End-->
