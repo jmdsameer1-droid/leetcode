@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@
 | [0118-pascals-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
