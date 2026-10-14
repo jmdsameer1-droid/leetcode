@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0118-pascals-triangle) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
