@@ -13,6 +13,7 @@
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0113-path-sum-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -100,6 +104,7 @@
 | [0098-validate-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +117,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0113-path-sum-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +143,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -153,4 +160,20 @@
 |  |
 | ------- |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
