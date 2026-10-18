@@ -24,11 +24,13 @@
 | [0119-pascals-triangle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
@@ -83,6 +85,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/jmdsameer1-droid/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/jmdsameer1-droid/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0796-rotate-string) |
 ## Tree
 |  |
@@ -176,4 +179,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
