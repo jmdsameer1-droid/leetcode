@@ -32,6 +32,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jmdsameer1-droid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jmdsameer1-droid/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
@@ -107,6 +108,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jmdsameer1-droid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -128,6 +130,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jmdsameer1-droid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
@@ -137,6 +140,7 @@
 | [0100-same-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jmdsameer1-droid/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jmdsameer1-droid/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0797-all-paths-from-source-to-target](https://github.com/jmdsameer1-droid/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
