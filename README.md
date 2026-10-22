@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/jmdsameer1-droid/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
