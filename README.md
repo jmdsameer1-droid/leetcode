@@ -96,6 +96,7 @@
 | [0093-restore-ip-addresses](https://github.com/jmdsameer1-droid/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0678-valid-parenthesis-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jmdsameer1-droid/leetcode/tree/master/0796-rotate-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jmdsameer1-droid/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/jmdsameer1-droid/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jmdsameer1-droid/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -210,4 +212,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jmdsameer1-droid/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jmdsameer1-droid/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
