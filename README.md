@@ -12,6 +12,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jmdsameer1-droid/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jmdsameer1-droid/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/jmdsameer1-droid/leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jmdsameer1-droid/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -70,11 +71,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jmdsameer1-droid/leetcode/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Math
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/jmdsameer1-droid/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jmdsameer1-droid/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jmdsameer1-droid/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jmdsameer1-droid/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
